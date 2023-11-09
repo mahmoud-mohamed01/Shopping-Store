@@ -35,6 +35,13 @@
 
 @media(max-width:500px)
 {
+
+    .new-collections
+    {
+        width: 500px;
+        height: 400px;
+        margin-bottom: 300%;
+    }
     .new-collections-items
     {
         display: grid;

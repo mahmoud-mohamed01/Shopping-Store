@@ -56,30 +56,11 @@
 @media(max-width:500px)
 {
 
-    .offer
-    {
-        margin-top: 130px;
-    }
+  .offer
+  {
+    display: none;
+  }
 
-    .offer
-    {
-        width: 50%;
-        height: 40vh;
-    }
-
-    .offer h2
-    {
-        font-size: 40px;
-    }
-    .offer p
-    {
-        font-size: 15px;
-        margin-bottom: 20px;
-
-    }
-    .right-side img
-    {
-        width: 225px;
-    }
+ 
  
 }

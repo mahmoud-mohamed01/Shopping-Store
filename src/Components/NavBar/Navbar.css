@@ -108,6 +108,8 @@
 @media (max-width:500px)
 {
 
+
+
     .nav-bar
     {
         width: 100%;
@@ -115,6 +117,7 @@
     .menu-list
     {
         gap: 30px;
+        font-size: 30px;
     }
 
     .navbar-btn-cart
@@ -134,5 +137,9 @@
     {
         width: 25px;
         margin-top: 12px;
+    }
+    .nav-logo img
+    {
+        width: 50px;
     }
 }

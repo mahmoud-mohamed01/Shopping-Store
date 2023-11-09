@@ -8,3 +8,10 @@ body
 {
     font-family: "poppins";
 }
+
+@media(max-width:500px){
+.container
+{
+    width: fit-content;
+}
+}
